@@ -7,29 +7,10 @@
     { "type": "skin" },
     { "type": "background" },
     { "type": "effect" },
-    { "type": "particle" },
-    { "type": "configuration" }
+    { "type": "particle" }
   ],
 "configuration": {
-    "options": [
-      {
-        "query": "idk",
-        "name": "Something",
-        "type": "select",
-        "values": [
-          "Blueberry",
-          "Blackberry",
-          "Cloudberry",
-          "Cranberry",
-          "Elderberry",
-          "Goldenberry",
-          "Raspberry",
-          "Strawberry"
-        ],
-        "default": 0,
-        "description": "Its just decoration bro"
-      }
-    ]
+    "options": []
   },
   "banner": {
     "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
