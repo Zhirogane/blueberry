@@ -15,4 +15,4 @@ $\color{#FFFFFF}{\text{Is a private server made by Shir0g4ne or Shirogane, with 
 ### Experimental
 Select a version
 
-**Blueberry**/Blackberry(./black.md)/Cranberry(./cran.md)/Elderberry(./elder.md)/Goldenberry(./golden.md)/Gooseberry(./goose.md)/Raspberry(./rasp.md)/Strawberry(./straw.md)
+**Blueberry**/Blackberry(./berry/black.md)/Cloudberry(./berry/cloud)/Cranberry(./berry/cran.md)/Elderberry(./berry/elder.md)/Goldenberry(./berry/golden.md)/Raspberry(./berry/rasp.md)/Strawberry(./berry/straw.md)
