@@ -1,15 +1,21 @@
 {
-    "item": {
+    "sections": [
+        {
+            "itemType": "level",
+            "title": "#NEWEST",
+            "items": [
+                {
                     "name": "cryout",
                     "source": "/sonolus/levels/cryout",
                     "version": 1,
                     "rating": 29,
                     "title": "Cryout",
                     "artists": "Ju_E",
-                    "author": "\u767D\u9280#962491",
+                    "author": "白銀#962491",
+                    "description": "作詞: Ju_E\n作曲: Ju_E\n編曲: Ju_E",
                     "authorUser": {
                         "name": "58432a856b6116e6aee33004ea1c747125b76b1d4658d5773270e851243041b4",
-                        "title": "\u767D\u9280",
+                        "title": "白銀",
                         "handle": "962491",
                         "tags": []
                     },
@@ -23,160 +29,100 @@
                         "name": "NextRUSH_P",
                         "source": "https://untitledcharts.com",
                         "version": 13,
-                        "title": "NextRUSH\u002B",
-                        "subtitle": "NextSEKAI R\u002B",
-                        "author": "NextSEKAI R\u002B",
+                        "title": "NextRUSH+",
+                        "subtitle": "NextSEKAI R+",
+                        "author": "NextSEKAI R+",
                         "tags": [],
                         "skin": {
                             "name": "blueberry-notes",
                             "source": "/sonolus/skins/blueberry-notes",
                             "version": 4,
                             "title": "Blueberry Notes",
-                            "subtitle": "Next RUSH\u002B",
+                            "subtitle": "Next RUSH+",
                             "author": "Shirogane#962491",
                             "tags": [],
                             "thumbnail": {
                                 "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
                                 "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
                             },
-                                "data": {
+                            "data": {
                                 "hash": "9d0855c8cc0017639eba281f7b63324c03de3aeb",
                                 "url": "/sonolus/repository/9d0855c8cc0017639eba281f7b63324c03de3aeb"
                             },
-                                "texture": {
+                            "texture": {
                                 "hash": "3e3ff7f1aaf5eb0fbc2626e6b9de370b2499cc82",
                                 "url": "/sonolus/repository/3e3ff7f1aaf5eb0fbc2626e6b9de370b2499cc82"
                             }
                         },
                         "background": {
-                                    "name": "blueberry-bg",
-        "version": 2,
-        "title": "Blueberry",
-        "subtitle": "Next SEKAI",
-        "author": "Shirogane#962491",
-        "tags": [],
-        "thumbnail": {
-            "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
-            "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
-        },
-        "image": {
-            "hash": "db53de22a091665aca29c1f0ad64a25eed72c462",
-            "url": "/sonolus/repository/db53de22a091665aca29c1f0ad64a25eed72c462"
-        },
-        "data": {
-            "hash": "f03d8d0684ddc3367194c09705109e791df2b3a8",
-            "url": "/sonolus/repository/f03d8d0684ddc3367194c09705109e791df2b3a8"
-        },
-        "configuration": {
-            "hash": "172cbf90834626991bffd684b3f08f5f21fda675",
-            "url": "/sonolus/repository/172cbf90834626991bffd684b3f08f5f21fda675"
-        }
+                            "name": "blueberry-bg",
+                            "version": 2,
+                            "title": "Blueberry",
+                            "subtitle": "Next SEKAI",
+                            "author": "Shirogane#962491",
+                            "tags": [],
+                            "thumbnail": {
+                                "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
+                                "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
+                            },
+                            "image": {
+                                "hash": "db53de22a091665aca29c1f0ad64a25eed72c462",
+                                "url": "/sonolus/repository/db53de22a091665aca29c1f0ad64a25eed72c462"
+                            },
+                            "data": {
+                                "hash": "f03d8d0684ddc3367194c09705109e791df2b3a8",
+                                "url": "/sonolus/repository/f03d8d0684ddc3367194c09705109e791df2b3a8"
+                            },
+                            "configuration": {
+                                "hash": "172cbf90834626991bffd684b3f08f5f21fda675",
+                                "url": "/sonolus/repository/172cbf90834626991bffd684b3f08f5f21fda675"
+                            }
                         },
                         "effect": {
-"name": "blueberry-sfx",
-        "version": 5,
-        "title": "Blueberry SFX",
-        "subtitle": "Next SEKAI",
-        "author": "Shirogane#962491",
-        "tags": [],
-        "thumbnail": {
-            "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
-            "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
-        },
-        "data": {
-            "hash": "4220973de2606b4eded40b68c001ec25a57a8b04",
-            "url": "/sonolus/repository/4220973de2606b4eded40b68c001ec25a57a8b04"
-        },
-        "audio": {
-            "hash": "2cce07be407afed30400b98fa9986ac09ce3e4d2",
-            "url": "/sonolus/repository/2cce07be407afed30400b98fa9986ac09ce3e4d2"
-        }
+                            "name": "blueberry-sfx",
+                            "version": 5,
+                            "title": "Blueberry SFX",
+                            "subtitle": "Next SEKAI",
+                            "author": "Shirogane#962491",
+                            "tags": [],
+                            "thumbnail": {
+                                "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
+                                "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
+                            },
+                            "data": {
+                                "hash": "4220973de2606b4eded40b68c001ec25a57a8b04",
+                                "url": "/sonolus/repository/4220973de2606b4eded40b68c001ec25a57a8b04"
+                            },
+                            "audio": {
+                                "hash": "2cce07be407afed30400b98fa9986ac09ce3e4d2",
+                                "url": "/sonolus/repository/2cce07be407afed30400b98fa9986ac09ce3e4d2"
+                            }
                         },
                         "particle": {
-        "name": "blueberry-particle",
-        "version": 3,
-        "title": "Blueberry Particle",
-        "subtitle": "Next SEKAI",
-        "author": "Not made by Shirogane#962491",
-        "tags": [],
-        "thumbnail": {
-            "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
-            "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
-        },
-        "data": {
-            "hash": "31f247b6bead596b04cfa58b1bd4beed3369b214",
-            "url": "/sonolus/repository/31f247b6bead596b04cfa58b1bd4beed3369b214"
-        },
-        "texture": {
-            "hash": "d69c71314291e07bc3a9565bb3c6f72b8749a027",
-            "url": "/sonolus/repository/d69c71314291e07bc3a9565bb3c6f72b8749a027"
-        }
-                        },
-                        "thumbnail": {
-                            "hash": "7f050943f904353a84e13b7d22f67b06a57c5e28",
-                            "url": "/sonolus/repository/7f050943f904353a84e13b7d22f67b06a57c5e28"
-                        },
-                        "playData": {
-                            "hash": "d265351b111f4ae160cbe2dea27f10282dbcf94f",
-                            "url": "/sonolus/repository/d265351b111f4ae160cbe2dea27f10282dbcf94f"
-                        },
-                        "watchData": {
-                            "hash": "801f3c3012353eb84c2f1c936eb589227f7e7662",
-                            "url": "/sonolus/repository/801f3c3012353eb84c2f1c936eb589227f7e7662"
-                        },
-                        "previewData": {
-                            "hash": "459e7f844f19cf46027ac9428bdb6fa70952c9cf",
-                            "url": "/sonolus/repository/459e7f844f19cf46027ac9428bdb6fa70952c9cf"
-                        },
-                        "tutorialData": {
-                            "hash": "a44bb57f2e26c43662e84937abf9196ce758e25f",
-                            "url": "/sonolus/repository/a44bb57f2e26c43662e84937abf9196ce758e25f"
-                        },
-                        "rom": {
-                            "hash": "4ea8d9f8bf17eb604158a7026030218e53e702d3",
-                            "url": "/sonolus/repository/4ea8d9f8bf17eb604158a7026030218e53e702d3"
-                        },
-                        "configuration": {
-                            "hash": "69e0a8a2c9342e45d36f40b86d997bd93818e7b1",
-                            "url": "/sonolus/repository/69e0a8a2c9342e45d36f40b86d997bd93818e7b1"
+                            "name": "blueberry-particle",
+                            "version": 3,
+                            "title": "Blueberry Particle",
+                            "subtitle": "Next SEKAI",
+                            "author": "Not made by Shirogane#962491",
+                            "tags": [],
+                            "thumbnail": {
+                                "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
+                                "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
+                            },
+                            "data": {
+                                "hash": "31f247b6bead596b04cfa58b1bd4beed3369b214",
+                                "url": "/sonolus/repository/31f247b6bead596b04cfa58b1bd4beed3369b214"
+                            },
+                            "texture": {
+                                "hash": "d69c71314291e07bc3a9565bb3c6f72b8749a027",
+                                "url": "/sonolus/repository/d69c71314291e07bc3a9565bb3c6f72b8749a027"
+                            }
                         }
                     },
-                    "useSkin": {
-                        "useDefault": true
-                    },
-                    "useBackground": {
-                        "useDefault": false,
-                        "item": {
-        "name": "blueberry-bg",
-        "version": 2,
-        "title": "Blueberry",
-        "subtitle": "Next SEKAI",
-        "author": "Shirogane#962491",
-        "tags": [],
-        "thumbnail": {
-            "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
-            "url": "/sonolus/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
-        },
-        "image": {
-            "hash": "db53de22a091665aca29c1f0ad64a25eed72c462",
-            "url": "/sonolus/repository/db53de22a091665aca29c1f0ad64a25eed72c462"
-        },
-        "data": {
-            "hash": "f03d8d0684ddc3367194c09705109e791df2b3a8",
-            "url": "/sonolus/repository/f03d8d0684ddc3367194c09705109e791df2b3a8"
-        },
-        "configuration": {
-            "hash": "172cbf90834626991bffd684b3f08f5f21fda675",
-            "url": "/sonolus/repository/172cbf90834626991bffd684b3f08f5f21fda675"
-        }
-                        }
-                    },
-                    "useEffect": {
-                        "useDefault": true
-                    },
-                    "useParticle": {
-                        "useDefault": true
-                    },
+                    "useSkin": { "useDefault": true },
+                    "useBackground": { "useDefault": true },
+                    "useEffect": { "useDefault": true },
+                    "useParticle": { "useDefault": true },
                     "cover": {
                         "hash": "85a5be4bb6f277047b7c3344fa707b2fbb38f376",
                         "url": "/sonolus/repository/85a5be4bb6f277047b7c3344fa707b2fbb38f376"
@@ -193,17 +139,7 @@
                         "hash": "6fdca9a9e852dea50947e1dc57e8d4321e33ec7e",
                         "url": "/sonolus/repository/6fdca9a9e852dea50947e1dc57e8d4321e33ec7e"
                     }
-    },
-    "description": "\u4F5C\u8A5E: Ju_E\n\u4F5C\u66F2: Ju_E\n\u7DE8\u66F2: Ju_E",
-    "actions": [],
-    "hasCommunity": false,
-    "leaderboards": [],
-    "sections": [
-        {
-            "itemType": "level",
-            "title": "#NEWEST",
-            "items": [
-                {}
+                }
             ]
         }
     ]
