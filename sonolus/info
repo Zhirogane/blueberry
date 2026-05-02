@@ -6,7 +6,7 @@
     { "type": "skin" },
     { "type": "background" },
     { "type": "effect" },
-    { "type": "particle" },
+    { "type": "particle" }
   ],
   "configuration": {
     "options": []
