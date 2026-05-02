@@ -1,10 +1,5 @@
 {
-    "sections": [
-        {
-            "itemType": "level",
-            "title": "#NEWEST",
-            "items": [
-                {
+    "item": {
                     "name": "cryout",
                     "source": "/sonolus/levels/cryout",
                     "version": 1,
@@ -198,7 +193,17 @@
                         "hash": "6fdca9a9e852dea50947e1dc57e8d4321e33ec7e",
                         "url": "/sonolus/repository/6fdca9a9e852dea50947e1dc57e8d4321e33ec7e"
                     }
-                }
+    },
+    "description": "\u4F5C\u8A5E: Ju_E\n\u4F5C\u66F2: Ju_E\n\u7DE8\u66F2: Ju_E",
+    "actions": [],
+    "hasCommunity": false,
+    "leaderboards": [],
+    "sections": [
+        {
+            "itemType": "level",
+            "title": "#NEWEST",
+            "items": [
+                {}
             ]
         }
     ]
