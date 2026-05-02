@@ -28,23 +28,6 @@
         ],
         "default": 0,
         "description": "Its just decoration bro"
-      },
-      {
-        "query": "idk1",
-        "name": "Experiment",
-        "type": "select",
-        "values": [
-          "No",
-          "Maybe",
-          "Still No",
-          "I said no",
-          "NO",
-          "Negative",
-          "-",
-          "Not"
-        ],
-        "default": 0,
-        "description": "No"
       }
     ]
   },
