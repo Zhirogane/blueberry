@@ -15,4 +15,4 @@ $\color{#FFFFFF}{\text{Is a private server made by Shir0g4ne, with my stuff like
 ### Experimental
 Select a version
 
-[Blueberry](../readme.md)/[Blackberry](./black)/[Cloudberry](./cloud)/**Cranberry**/[Elderberry](./elder.md)/[Goldenberry](./golden.md)/[Raspberry](./rasp.md)/[Strawberry](./straw.md)
+[Blueberry](../readme.md)/[Blackberry](./black)/[Cloudberry](./cloud.md)/**Cranberry**/[Elderberry](./elder.md)/[Goldenberry](./golden.md)/[Raspberry](./rasp.md)/[Strawberry](./straw.md)
