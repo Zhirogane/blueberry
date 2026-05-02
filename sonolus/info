@@ -2,6 +2,7 @@
   "title": "BlueBerry",
   "description": "Server made by Shirogane 962491",
   "buttons": [
+    { "type": "posts" },
     { "type": "level" },
     { "type": "skin" },
     { "type": "background" },
