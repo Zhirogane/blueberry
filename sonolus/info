@@ -1,0 +1,20 @@
+{
+  "title": "BlueBerry",
+  "description": "Server made by Shirogane#962491 \nSome sections are buggy",
+  "buttons": [
+    { "type": "post" },
+    { "type": "level" },
+    { "type": "skin" },
+    { "type": "background" },
+    { "type": "effect" },
+    { "type": "particle" }
+  ],
+  "configuration": {
+    "options": []
+  },
+  "banner": {
+    "hash": "61444ca6cb86d9d867e650fc0ec1a75c66655eab",
+    "url": "/Blueberry/repository/61444ca6cb86d9d867e650fc0ec1a75c66655eab"
+  }
+}
+
