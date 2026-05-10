@@ -53,13 +53,19 @@
             background-color: #3251b8;
             color: #FFF;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
-        }
-        .change {
-        background: linear-gradient(180deg, #4f5d95 0%, #555555 14%, #e2943a 29%, #db5079 43%, #7c243d 57%, #ffae42 71%, #e30b5d 86%, #ff0000 100%);
-        color: #FFF;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
-        transition: background 0.3s ease;
-        }
+            .change {
+            background: linear-gradient(180deg, #4f5d95, #555555, #e2943a, #db5079, #7c243d, #ffae42, #e30b5d, #ff0000);
+            background-size: 100% 400%;
+            animation: gradientMove 5s ease infinite;
+            color: #FFF;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+            }
+
+    @keyframes gradientMove {
+            0% { background-position: 0% 0%; }
+            50% { background-position: 0% 100%; }
+            100% { background-position: 0% 0%; }
+            }
     </style>
 </head>
 <body>
